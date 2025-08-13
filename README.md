@@ -16,4 +16,4 @@ Beyond screen time, insight matters! I crunched the numbers with Excel’s **Piv
 - Microsoft Excel (Pivot Table + Pivot Chart + Calculated Fields)
 
 ## 🚀 Explore
-Open `movie_analysis.xlsx` and let the data drama unfold.
+Open `movie_Data.xlsx` and let the data drama unfold.
